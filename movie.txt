@@ -1,2 +1,3 @@
-movies
-mukhachitram
+Movie : Hit 3
+Cast: Nani,Priyanka,Sesh
+Year :2025
